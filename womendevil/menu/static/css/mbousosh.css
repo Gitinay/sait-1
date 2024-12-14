@@ -9,7 +9,7 @@ margin: 0; /* Убирает отступы */
 }
 
 a.textone:active, /* активная/посещенная ссылка */
-a.textone:hover,  /* при наведении */
+a.textone:hover,  /* 123при наведении */
 a.textone {
   text-decoration: none;
   color: #E4B9B9;
